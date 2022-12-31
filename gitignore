@@ -1,0 +1,5 @@
+**/*.txt
+**/*.class
+**/*.txt.new
+/datasets/
+*.class
