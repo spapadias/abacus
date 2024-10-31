@@ -95,3 +95,6 @@ The total time (in secs) is: 0.093337963
 ```
 
 Similarly, for running  Parabacus execute  the `callParabacus.py` script located in the `src/main/python/` folder.
+
+# Feedback
+For general questions and discussions, please use [GitHub Discussions](https://github.com/spapadias/abacus/discussions) instead of creating an issue. We are currently working on the extended version of Abacus.
